@@ -1,0 +1,27 @@
+header.d-flex.flex-wrap.align-items-center.justify-content-center.justify-content-md-between.py-3.mb-4.border-bottom.fixed-top{
+    background-color: rgba(3, 27, 50, 0.9) !important;
+    padding-right: 1rem;
+}
+
+header.border-bottom{
+    border-bottom: none !important;
+}
+
+span.fs-4{
+    color:White;
+}
+
+a.nav-link.px-2{
+    color:White !important;
+    font-size: large;
+}
+
+a.nav-link.px-2:hover{
+    color:#e4195e !important;
+    font-size: large;
+}
+
+a.nav-link.active.px-2{
+    color:rgb(55, 218, 255) !important;
+    font-weight:bold;
+}
